@@ -13,7 +13,7 @@ Web Server: http://www.imtech.res.in/raghava/vgichan/
 Saha, S., Zack, J., Singh, B., and Raghava, G. P. S. VGIchan: Prediction and classification of voltage-gated ion channels. Genomics, Proteomics & Bioinformatics, 4(4), 253-258, 2006.
 https://doi.org/10.1016/S1672-0229(07)60002-4
 
-This tool and dataset is also available on Zenodo at 
+This tool and dataset is also available on Zenodo at https://doi.org/10.5281/zenodo.20176312
 
 
 ## About the Research
